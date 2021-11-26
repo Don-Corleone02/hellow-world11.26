@@ -32,3 +32,7 @@ char* StrCpy(char* src)
   return p;
 
 }
+
+/**
+远程 edit
+**/
